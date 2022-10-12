@@ -39,7 +39,7 @@ jobs:
       - name: Run build-wrapper
         run: |
           mkdir build && cd build
-          ./configure
+          ../configure
           cd ..
           build-wrapper-linux-x86-64 --out-dir ${{ env.BUILD_WRAPPER_OUT_DIR }}
       - name: Run sonar-scanner
