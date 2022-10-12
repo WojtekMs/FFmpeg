@@ -39,7 +39,7 @@ jobs:
       - name: Run build-wrapper
         run: |
           export DEBIAN_FRONTEND=noninteractive
-          apt update && apt install -y nasm diffutils
+          sudo apt update && apt install -y nasm diffutils
           mkdir build && cd build
           ../configure
           cd ..
