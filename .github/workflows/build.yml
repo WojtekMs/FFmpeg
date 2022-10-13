@@ -40,9 +40,7 @@ jobs:
         run: |
           export DEBIAN_FRONTEND=noninteractive
           sudo apt update && sudo apt install -y nasm diffutils
-          mkdir build && cd build
-          ../configure
-          cd ..
+          ./configure
           build-wrapper-linux-x86-64 --out-dir ${{ env.BUILD_WRAPPER_OUT_DIR }} make -j$(nproc)
       - name: Run sonar-scanner
         env:
