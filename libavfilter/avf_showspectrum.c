@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2012 Clément Bœsch
+ * Copyright (c) 2012 ClÃ©ment BÅsch
  * Copyright (c) 2013 Rudolf Polzer <divverent@xonotic.org>
  *
  * This file is part of FFmpeg.

@@ -1,6 +1,6 @@
 /*
  * LXF demuxer
- * Copyright (c) 2010 Tomas Härdin
+ * Copyright (c) 2010 Tomas HÃ¤rdin
  *
  * This file is part of FFmpeg.
  *

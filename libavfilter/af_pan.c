@@ -1,6 +1,6 @@
 /*
  * Copyright (c) 2002 Anders Johansson <ajh@atri.curtin.edu.au>
- * Copyright (c) 2011 Clément Bœsch <ubitux@gmail.com>
+ * Copyright (c) 2011 ClÃ©ment BÅsch <ubitux@gmail.com>
  * Copyright (c) 2011 Nicolas George <nicolas.george@normalesup.org>
  *
  * This file is part of FFmpeg.

@@ -1,6 +1,6 @@
 /*
  * Copyright (C) 2006 Michael Niedermayer <michaelni@gmx.at>
- * Copyright (C) 2012 Clément Bœsch <ubitux@gmail.com>
+ * Copyright (C) 2012 ClÃ©ment BÅsch <ubitux@gmail.com>
  *
  * This file is part of FFmpeg.
  *
@@ -23,7 +23,7 @@
  * @file
  * Generic equation change filter
  * Originally written by Michael Niedermayer for the MPlayer project, and
- * ported by Clément Bœsch for FFmpeg.
+ * ported by ClÃ©ment BÅsch for FFmpeg.
  */
 
 #include "libavutil/avstring.h"

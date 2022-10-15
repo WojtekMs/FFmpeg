@@ -27,7 +27,7 @@
  * For more information on the OpenEXR format, visit:
  *  http://openexr.com/
  *
- * exr_flt2uint() and exr_halflt2uint() is credited to  Reimar Döffinger
+ * exr_flt2uint() and exr_halflt2uint() is credited to  Reimar DÃ¶ffinger
  */
 
 #include <zlib.h>

@@ -249,7 +249,7 @@ static inline int RENAME(yuv420_rgb16)(SwsContext *c, const uint8_t *src[],
     "punpcklbw %%mm2,      %%mm3 \n" /* R0 G0 R2 G2 R4 G4 R6 G6 */\
     "punpcklbw %%mm"red",  %%mm6 \n" /* B0 R1 B2 R3 B4 R5 B6 R7 */\
     "movq      %%mm3,      %%mm5 \n"\
-    "punpckhbw %%mm"blue", %%mm2 \n" /* G1 B1 G3 B3 G5 B5 G7 B7 */\
+    "punpckhbw %%mm"blue", %%mm2 \n" /* G1 B1 G3 B3 G5 B5 G7 B7Â */\
     "punpcklwd %%mm6,      %%mm3 \n" /* R0 G0 B0 R1 R2 G2 B2 R3 */\
     "punpckhwd %%mm6,      %%mm5 \n" /* R4 G4 B4 R5 R6 G6 B6 R7 */\
     RGB_PACK24_B

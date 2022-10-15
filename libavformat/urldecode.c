@@ -1,6 +1,6 @@
 /*
  * Simple URL decoding function
- * Copyright (c) 2012 Antti Seppälä
+ * Copyright (c) 2012 Antti SeppÃ¤lÃ¤
  *
  * References:
  *  RFC 3986: Uniform Resource Identifier (URI): Generic Syntax

@@ -1,6 +1,6 @@
 /*
  * Copyright (c) 2003 Michael Niedermayer <michaelni@gmx.at>
- * Copyright (c) 2013 Clément Bœsch <ubitux@gmail.com>
+ * Copyright (c) 2013 ClÃ©ment BÅsch <ubitux@gmail.com>
  *
  * This file is part of FFmpeg.
  *
@@ -28,7 +28,7 @@
  * Enhancement of Compressed Images (1999)"
  *
  * Originally written by Michael Niedermayer for the MPlayer project, and
- * ported by Clément Bœsch for FFmpeg.
+ * ported by ClÃ©ment BÅsch for FFmpeg.
  */
 
 #include "libavcodec/dsputil.h"

@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2011 Miroslav Slugeň <Thunder.m@seznam.cz>
+ * Copyright (c) 2011 Miroslav SlugeÅ <Thunder.m@seznam.cz>
  *
  * This file is part of FFmpeg.
  *

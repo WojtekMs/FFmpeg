@@ -1,6 +1,6 @@
 /*
  * Copyright (c) 2007 Michael Niedermayer <michaelni@gmx.at>
- * Copyright (c) 2013 Clément Bœsch <ubitux@gmail.com>
+ * Copyright (c) 2013 ClÃ©ment BÅsch <ubitux@gmail.com>
  *
  * This file is part of FFmpeg.
  *

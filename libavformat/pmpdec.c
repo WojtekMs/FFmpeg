@@ -1,6 +1,6 @@
 /*
  * PMP demuxer.
- * Copyright (c) 2011 Reimar Döffinger
+ * Copyright (c) 2011 Reimar DÃ¶ffinger
  *
  * This file is part of FFmpeg.
  *

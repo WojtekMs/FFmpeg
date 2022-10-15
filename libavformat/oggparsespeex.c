@@ -1,5 +1,5 @@
 /*
-      Copyright (C) 2008  Reimar Döffinger
+      Copyright (C) 2008  Reimar DÃ¶ffinger
 
       Permission is hereby granted, free of charge, to any person
       obtaining a copy of this software and associated documentation

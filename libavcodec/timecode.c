@@ -1,6 +1,6 @@
 /*
  * Copyright (C) 2006 Smartjog S.A.S, Baptiste Coudurier <baptiste.coudurier@gmail.com>
- * Copyright (C) 2011 Smartjog S.A.S, Clément Bœsch      <clement.boesch@smartjog.com>
+ * Copyright (C) 2011 Smartjog S.A.S, ClÃ©ment BÅsch      <clement.boesch@smartjog.com>
  *
  * This file is part of FFmpeg.
  *

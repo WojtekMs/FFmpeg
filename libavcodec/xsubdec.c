@@ -1,6 +1,6 @@
 /*
  * XSUB subtitle decoder
- * Copyright (c) 2007 Reimar Döffinger
+ * Copyright (c) 2007 Reimar DÃ¶ffinger
  *
  * This file is part of FFmpeg.
  *

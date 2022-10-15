@@ -1,6 +1,6 @@
 /*
  * MD5 encoder (for codec/format testing)
- * Copyright (c) 2009 Reimar Döffinger, based on crcenc (c) 2002 Fabrice Bellard
+ * Copyright (c) 2009 Reimar DÃ¶ffinger, based on crcenc (c) 2002 Fabrice Bellard
  *
  * This file is part of FFmpeg.
  *
